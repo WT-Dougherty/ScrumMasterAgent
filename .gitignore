@@ -1,0 +1,8 @@
+# folders
+node_modules/
+
+# files
+.env
+/src/returntype.ts
+/src/bookend.ts
+scrumdirective.txt
